@@ -8,4 +8,5 @@ In the project directory, you can run:
 
 ### `yarn start`
 
-Runs th
+Runs the app in the development mode.\
+Open [http:
