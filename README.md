@@ -59,4 +59,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 ### Advanced Configuration
 
-This secti
+This section has moved here: [https://facebook.gi
