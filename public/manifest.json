@@ -18,4 +18,6 @@
       "sizes": "512x512"
     }
   ],
-  "start
+  "start_url": ".",
+  "display": "standalone",
+  "th
