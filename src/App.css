@@ -11,4 +11,10 @@ body {
   min-height: 100vh;
 }
 
-header
+header {
+  font-size: 2rem;
+}
+
+header,
+form {
+  
