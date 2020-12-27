@@ -24,4 +24,6 @@ form {
 }
 
 form input,
-f
+form button {
+  padding: 0.5rem;
+  
