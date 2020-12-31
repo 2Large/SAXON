@@ -32,4 +32,7 @@ form button {
 }
 
 form button {
-  color
+  color: #ff6f47;
+  background: #f7fffe;
+  cursor: pointer;
+  
