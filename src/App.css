@@ -40,4 +40,8 @@ form button {
 
 form button:hover {
   background: #ff6f47;
-  co
+  color: white;
+}
+
+.todo-container {
+  display: flex;
