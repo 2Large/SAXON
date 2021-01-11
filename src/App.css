@@ -74,4 +74,6 @@ form button:hover {
 }
 
 .trash-btn,
-.complete-btn
+.complete-btn {
+  background: #ff6f47;
+  color: white
