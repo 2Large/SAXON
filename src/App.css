@@ -78,4 +78,6 @@ form button:hover {
   background: #ff6f47;
   color: white;
   border: none;
-  padding: 
+  padding: 1rem;
+  cursor: pointer;
+  font-siz
