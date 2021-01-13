@@ -80,4 +80,8 @@ form button:hover {
   border: none;
   padding: 1rem;
   cursor: pointer;
-  font-siz
+  font-size: 1rem;
+}
+
+.complete-btn {
+  background
