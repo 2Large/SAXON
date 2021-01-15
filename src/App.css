@@ -84,4 +84,8 @@ form button:hover {
 }
 
 .complete-btn {
-  background
+  background: rgb(11, 212, 162);
+}
+
+.todo-item {
+  
