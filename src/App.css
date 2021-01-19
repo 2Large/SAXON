@@ -93,4 +93,7 @@ form button:hover {
 
 .fa-trash,
 .fa-check {
-  pointer-events: no
+  pointer-events: none;
+}
+
+/*CUSTOM SELECTOR 
