@@ -96,4 +96,6 @@ form button:hover {
   pointer-events: none;
 }
 
-/*CUSTOM SELECTOR 
+/*CUSTOM SELECTOR */
+select {
+  -webkit-appearance: n
