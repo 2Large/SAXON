@@ -98,4 +98,6 @@ form button:hover {
 
 /*CUSTOM SELECTOR */
 select {
-  -webkit-appearance: n
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms
