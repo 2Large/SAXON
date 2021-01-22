@@ -100,4 +100,5 @@ form button:hover {
 select {
   -webkit-appearance: none;
   -moz-appearance: none;
-  -ms
+  -ms-appearance: none;
+  appearance: 
