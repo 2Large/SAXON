@@ -105,4 +105,7 @@ select {
   outline: 0;
   box-shadow: none;
   border: 0 !important;
-  b
+  background-image: none;
+}
+
+.completed {
