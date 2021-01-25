@@ -109,3 +109,5 @@ select {
 }
 
 .completed {
+  text-decoration: line-through;
+  op
