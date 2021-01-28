@@ -114,4 +114,6 @@ select {
 }
 
 /* Custom Select */
-.select
+.select {
+  margin: 1rem;
+  posit
