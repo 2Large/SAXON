@@ -110,4 +110,8 @@ select {
 
 .completed {
   text-decoration: line-through;
-  op
+  opacity: 0.5;
+}
+
+/* Custom Select */
+.select
