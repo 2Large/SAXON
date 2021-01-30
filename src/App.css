@@ -116,4 +116,7 @@ select {
 /* Custom Select */
 .select {
   margin: 1rem;
-  posit
+  position: relative;
+  overflow: hidden;
+}
+select {
