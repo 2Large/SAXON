@@ -121,4 +121,6 @@ select {
 }
 select {
   color: #ff6f47;
-  font-family: 'Poppins'
+  font-family: 'Poppins', sans-serif;
+  cursor: pointer;
+  width: 1
