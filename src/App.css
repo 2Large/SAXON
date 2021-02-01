@@ -123,4 +123,7 @@ select {
   color: #ff6f47;
   font-family: 'Poppins', sans-serif;
   cursor: pointer;
-  width: 1
+  width: 12rem;
+}
+/* Arrow */
+.select::after 
