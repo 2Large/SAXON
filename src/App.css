@@ -126,4 +126,7 @@ select {
   width: 12rem;
 }
 /* Arrow */
-.select::after 
+.select::after {
+  content: '\25BC';
+  position: absolute;
+ 
