@@ -131,4 +131,6 @@ select {
   position: absolute;
   top: 0;
   right: 0;
-  padding: 1
+  padding: 1rem;
+  background: #ff6f47;
+  cursor: 
