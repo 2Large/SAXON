@@ -133,4 +133,6 @@ select {
   right: 0;
   padding: 1rem;
   background: #ff6f47;
-  cursor: 
+  cursor: pointer;
+  pointer-events: none;
+}
