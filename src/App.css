@@ -139,4 +139,6 @@ select {
 /* Transition */
 /*
 .select:hover::after {
-  transform: sc
+  transform: scale(1.5);
+}
+*/
