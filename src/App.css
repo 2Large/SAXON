@@ -138,4 +138,5 @@ select {
 }
 /* Transition */
 /*
-.select:h
+.select:hover::after {
+  transform: sc
