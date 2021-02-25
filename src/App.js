@@ -5,4 +5,4 @@ import Form from './components/Form';
 import TodoList from './components/TodoList';
 
 function App() {
-  const [
+  const [inputText, setInputText] = useState(''
