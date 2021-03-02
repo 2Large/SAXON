@@ -15,4 +15,6 @@ function App() {
   }, [])
 
   useEffect(() => {
- 
+    filterHandler()
+    saveLocalTodos()
+  }, [tod
