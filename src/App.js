@@ -20,4 +20,6 @@ function App() {
   }, [todos, status])
 
   const filterHandler = () => {
-    swit
+    switch(status) {
+      case 'completed':
+        s
