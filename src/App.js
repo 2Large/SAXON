@@ -17,4 +17,7 @@ function App() {
   useEffect(() => {
     filterHandler()
     saveLocalTodos()
-  }, [tod
+  }, [todos, status])
+
+  const filterHandler = () => {
+    swit
