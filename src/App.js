@@ -22,4 +22,4 @@ function App() {
   const filterHandler = () => {
     switch(status) {
       case 'completed':
-        s
+        setFilteredTodos(todo
