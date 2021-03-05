@@ -23,4 +23,6 @@ function App() {
     switch(status) {
       case 'completed':
         setFilteredTodos(todos.filter(todo => todo.completed))
-    
+        break;
+      case 'uncompleted':
+       
