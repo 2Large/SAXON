@@ -25,4 +25,4 @@ function App() {
         setFilteredTodos(todos.filter(todo => todo.completed))
         break;
       case 'uncompleted':
-       
+        setFilteredTodos(todos.filter(to
