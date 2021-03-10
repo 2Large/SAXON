@@ -33,4 +33,5 @@ function App() {
     }
   }
 
-  con
+  const saveLocalTodos = () => {
+    localStorage.s
