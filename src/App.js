@@ -28,4 +28,9 @@ function App() {
         setFilteredTodos(todos.filter(todo => !todo.completed))
         break;
       default:
-        setFilteredTodos(to
+        setFilteredTodos(todos)
+        break;
+    }
+  }
+
+  con
