@@ -38,4 +38,4 @@ function App() {
   }
 
   const getLocalTodos = () => {
-    if 
+    if (localStorage.getItem('todos' ==
