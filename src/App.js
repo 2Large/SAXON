@@ -38,4 +38,5 @@ function App() {
   }
 
   const getLocalTodos = () => {
-    if (localStorage.getItem('todos' ==
+    if (localStorage.getItem('todos' === null)) {
+      localStorage.se
