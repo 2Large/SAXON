@@ -39,4 +39,6 @@ function App() {
 
   const getLocalTodos = () => {
     if (localStorage.getItem('todos' === null)) {
-      localStorage.se
+      localStorage.setItem('todos', JSON.stringify([]))
+    } else {
+ 
