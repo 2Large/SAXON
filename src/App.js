@@ -48,4 +48,6 @@ function App() {
 
   return (
     <div className="App">
-      <head
+      <header>
+        <h1>KV's Todo List</h1>
+  
