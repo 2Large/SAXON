@@ -54,3 +54,5 @@ function App() {
       <Form
         todos={todos}
         setTodos={setTodos}
+        inputText={inputText}
+        setInputText=
