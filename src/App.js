@@ -52,4 +52,5 @@ function App() {
         <h1>KV's Todo List</h1>
       </header>
       <Form
-     
+        todos={todos}
+        setTodos={setTodos}
