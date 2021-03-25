@@ -55,4 +55,5 @@ function App() {
         todos={todos}
         setTodos={setTodos}
         inputText={inputText}
-        setInputText=
+        setInputText={setInputText}
+        setStatus={set
