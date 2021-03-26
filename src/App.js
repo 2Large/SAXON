@@ -58,4 +58,4 @@ function App() {
         setInputText={setInputText}
         setStatus={setStatus}
       />
-      <TodoList 
+      <TodoList setTodos={setTodos} todos={todos}
