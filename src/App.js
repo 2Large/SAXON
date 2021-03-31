@@ -59,4 +59,8 @@ function App() {
         setStatus={setStatus}
       />
       <TodoList setTodos={setTodos} todos={todos} filteredTodos={filteredTodos} />
-    </div
+    </div>
+  );
+}
+
+export default App;
