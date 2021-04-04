@@ -5,4 +5,5 @@ const Form = ({ inputText, setInputText, todos, setTodos, setStatus }) => {
     setInputText(e.target.value);
   };
 
-  const sub
+  const submitTodoHandler = (e) => {
+    e.preventD
