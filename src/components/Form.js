@@ -10,4 +10,6 @@ const Form = ({ inputText, setInputText, todos, setTodos, setStatus }) => {
     setTodos([
       ...todos,
       {
-        text: inpu
+        text: inputText,
+        completed: false,
+        id:
