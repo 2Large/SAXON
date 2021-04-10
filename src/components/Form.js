@@ -15,3 +15,7 @@ const Form = ({ inputText, setInputText, todos, setTodos, setStatus }) => {
         id: Math.random() * 1000,
       },
     ]);
+    setInputText('');
+  };
+
+  const statusH
