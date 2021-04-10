@@ -18,4 +18,5 @@ const Form = ({ inputText, setInputText, todos, setTodos, setStatus }) => {
     setInputText('');
   };
 
-  const statusH
+  const statusHandler = (e) => {
+    setStatu
