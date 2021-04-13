@@ -23,4 +23,7 @@ const Form = ({ inputText, setInputText, todos, setTodos, setStatus }) => {
   }
 
   return (
-    <fo
+    <form>
+      <input
+        value={inputText}
+    
