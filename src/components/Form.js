@@ -26,4 +26,5 @@ const Form = ({ inputText, setInputText, todos, setTodos, setStatus }) => {
     <form>
       <input
         value={inputText}
-    
+        onChange={inputTextHandler}
+  
