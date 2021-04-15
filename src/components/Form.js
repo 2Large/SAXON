@@ -27,4 +27,6 @@ const Form = ({ inputText, setInputText, todos, setTodos, setStatus }) => {
       <input
         value={inputText}
         onChange={inputTextHandler}
+        type="text"
+        className="todo-input"
   
