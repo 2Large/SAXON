@@ -30,4 +30,4 @@ const Form = ({ inputText, setInputText, todos, setTodos, setStatus }) => {
         type="text"
         className="todo-input"
       />
-      <button onClick={submitT
+      <button onClick={submitTodoHandler} className="todo-button" type="submit
