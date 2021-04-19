@@ -33,4 +33,5 @@ const Form = ({ inputText, setInputText, todos, setTodos, setStatus }) => {
       <button onClick={submitTodoHandler} className="todo-button" type="submit">
         <i className="fas fa-plus-square"></i>
       </button>
-      <div 
+      <div className="select">
+        <select onChange
