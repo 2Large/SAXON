@@ -34,4 +34,4 @@ const Form = ({ inputText, setInputText, todos, setTodos, setStatus }) => {
         <i className="fas fa-plus-square"></i>
       </button>
       <div className="select">
-        <select onChange
+        <select onChange={statusHandler} name="todos" className="fil
