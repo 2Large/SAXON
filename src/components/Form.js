@@ -35,4 +35,5 @@ const Form = ({ inputText, setInputText, todos, setTodos, setStatus }) => {
       </button>
       <div className="select">
         <select onChange={statusHandler} name="todos" className="filter-todo">
-          <option valu
+          <option value="all">All</option>
+          
