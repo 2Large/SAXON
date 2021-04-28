@@ -1,1 +1,3 @@
-impor
+import React from 'react';
+
+const
