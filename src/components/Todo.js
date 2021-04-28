@@ -1,3 +1,3 @@
 import React from 'react';
 
-const
+const Todo = ({ text, todo, setTodos, todos
