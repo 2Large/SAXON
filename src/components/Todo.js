@@ -5,4 +5,6 @@ const Todo = ({ text, todo, setTodos, todos }) => {
     setTodos(todos.filter((el) => el.id !== todo.id));
   };
 
-  const completeH
+  const completeHandler = () => {
+    setTodos(
+      todos
