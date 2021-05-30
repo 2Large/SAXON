@@ -8,4 +8,5 @@ const Todo = ({ text, todo, setTodos, todos }) => {
   const completeHandler = () => {
     setTodos(
       todos.map((item) => {
-        if (item
+        if (item.id === todo.id) {
+          retur
