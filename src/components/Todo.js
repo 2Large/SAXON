@@ -7,4 +7,5 @@ const Todo = ({ text, todo, setTodos, todos }) => {
 
   const completeHandler = () => {
     setTodos(
-      todos
+      todos.map((item) => {
+        if (item
