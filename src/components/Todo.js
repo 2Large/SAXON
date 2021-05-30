@@ -9,4 +9,6 @@ const Todo = ({ text, todo, setTodos, todos }) => {
     setTodos(
       todos.map((item) => {
         if (item.id === todo.id) {
-          retur
+          return {
+            ...item,
+        
