@@ -11,4 +11,6 @@ const Todo = ({ text, todo, setTodos, todos }) => {
         if (item.id === todo.id) {
           return {
             ...item,
-        
+            completed: !item.completed,
+          };
+ 
