@@ -13,4 +13,8 @@ const Todo = ({ text, todo, setTodos, todos }) => {
             ...item,
             completed: !item.completed,
           };
+        }
+        return item;
+      })
+    );
  
