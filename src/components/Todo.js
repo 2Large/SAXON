@@ -21,4 +21,5 @@ const Todo = ({ text, todo, setTodos, todos }) => {
 
   return (
     <div className="todo">
-      <li className={`todo-item 
+      <li className={`todo-item ${todo.completed ? 'completed' : ''}`}>
+       
