@@ -20,4 +20,5 @@ const Todo = ({ text, todo, setTodos, todos }) => {
   };
 
   return (
-    <div className="todo"
+    <div className="todo">
+      <li className={`todo-item 
