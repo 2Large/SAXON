@@ -24,4 +24,4 @@ const Todo = ({ text, todo, setTodos, todos }) => {
       <li className={`todo-item ${todo.completed ? 'completed' : ''}`}>
         {text}
       </li>
-      <butto
+      <button onClick={completeHandler} className="complete
