@@ -27,4 +27,4 @@ const Todo = ({ text, todo, setTodos, todos }) => {
       <button onClick={completeHandler} className="complete-btn">
         <i className="fas fa-check"></i>
       </button>
-      <butto
+      <button onClick={deleteHandler} className="trash-btn
