@@ -25,4 +25,6 @@ const Todo = ({ text, todo, setTodos, todos }) => {
         {text}
       </li>
       <button onClick={completeHandler} className="complete-btn">
-        <i className="fas
+        <i className="fas fa-check"></i>
+      </button>
+      <butto
