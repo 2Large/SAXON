@@ -34,4 +34,4 @@ const Todo = ({ text, todo, setTodos, todos }) => {
   );
 };
 
-expor
+export default Todo;
