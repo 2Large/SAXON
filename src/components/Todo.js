@@ -28,4 +28,10 @@ const Todo = ({ text, todo, setTodos, todos }) => {
         <i className="fas fa-check"></i>
       </button>
       <button onClick={deleteHandler} className="trash-btn">
-        <i className="fas fa-trash"></
+        <i className="fas fa-trash"></i>
+      </button>
+    </div>
+  );
+};
+
+expor
