@@ -9,3 +9,6 @@ ReactDOM.render(
     <App />
   </React.StrictMode>,
   document.getElementById('root')
+);
+
+// If you want to start measuring perf
