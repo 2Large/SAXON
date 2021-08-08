@@ -12,4 +12,4 @@ ReactDOM.render(
 );
 
 // If you want to start measuring performance in your app, pass a function
-// to 
+// to log results (for example: reportWebVital
