@@ -2735,3 +2735,44 @@ babel-preset-jest@^26.6.2:
 
 babel-preset-react-app@^10.0.0:
   version "10.0.0"
+  resolved "https://registry.yarnpkg.com/babel-preset-react-app/-/babel-preset-react-app-10.0.0.tgz#689b60edc705f8a70ce87f47ab0e560a317d7045"
+  integrity sha512-itL2z8v16khpuKutx5IH8UdCdSTuzrOhRFTEdIhveZ2i1iBKDrVE0ATa4sFVy+02GLucZNVBWtoarXBy0Msdpg==
+  dependencies:
+    "@babel/core" "7.12.3"
+    "@babel/plugin-proposal-class-properties" "7.12.1"
+    "@babel/plugin-proposal-decorators" "7.12.1"
+    "@babel/plugin-proposal-nullish-coalescing-operator" "7.12.1"
+    "@babel/plugin-proposal-numeric-separator" "7.12.1"
+    "@babel/plugin-proposal-optional-chaining" "7.12.1"
+    "@babel/plugin-transform-flow-strip-types" "7.12.1"
+    "@babel/plugin-transform-react-display-name" "7.12.1"
+    "@babel/plugin-transform-runtime" "7.12.1"
+    "@babel/preset-env" "7.12.1"
+    "@babel/preset-react" "7.12.1"
+    "@babel/preset-typescript" "7.12.1"
+    "@babel/runtime" "7.12.1"
+    babel-plugin-macros "2.8.0"
+    babel-plugin-transform-react-remove-prop-types "0.4.24"
+
+babel-runtime@^6.26.0:
+  version "6.26.0"
+  resolved "https://registry.yarnpkg.com/babel-runtime/-/babel-runtime-6.26.0.tgz#965c7058668e82b55d7bfe04ff2337bc8b5647fe"
+  integrity sha1-llxwWGaOgrVde/4E/yM3vItWR/4=
+  dependencies:
+    core-js "^2.4.0"
+    regenerator-runtime "^0.11.0"
+
+babylon@^6.18.0:
+  version "6.18.0"
+  resolved "https://registry.yarnpkg.com/babylon/-/babylon-6.18.0.tgz#af2f3b88fa6f5c1e4c634d1a0f8eac4f55b395e3"
+  integrity sha512-q/UEjfGJ2Cm3oKV71DJz9d25TPnq5rhBVL2Q4fA5wcC3jcrdn7+SssEybFIxwAvvP+YCsCYNKughoF33GxgycQ==
+
+balanced-match@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
+  integrity sha1-ibTRmasr7kneFk6gK4nORi1xt2c=
+
+base64-js@^1.0.2:
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/base64-js/-/base64-js-1.3.1.tgz#58ece8cb75dd07e71ed08c736abc5fac4dbf8df1"
+  integrity sha512-mLQ4i2QO1ytvGWFWmcngKO//JXAQueZvwEKtjgQFM4jIK0kU+ytMfplL8j+n5mspOfjHwoAg+9yhb7BwAHm36g==
